@@ -7,6 +7,3 @@ export default function Home() {
   );
 }
 
-// this code has been fixed 
-
-//there is no more issue
